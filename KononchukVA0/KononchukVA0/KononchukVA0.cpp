@@ -7,4 +7,5 @@ int main()
 	cin >> n;
 	cout << "Vy vveli " << n;
 	return 0;
+	cout << "WNJBFIHBGIUENFKNFIBGEJ";
 }
